@@ -30,7 +30,5 @@ Additionally, exploratory data analysis (EDA) has been performed on this dataset
 These findings underscore the significant financial transactions facilitated by electoral bonds, emphasizing the role of both buyers and political parties in the electoral funding landscape.
 
 **Note:** The dataset has been enhanced by adding a new column "Type" to facilitate easier analysis and segmentation of donors into individual and firm categories.
-
 ---
-
 Feel free to adjust or expand upon this description based on your specific dataset and objectives!
