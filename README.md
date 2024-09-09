@@ -18,7 +18,7 @@ Additionally, exploratory data analysis (EDA) has been performed on this dataset
    - Buyers are categorized into six types, with the majority being firms (938), followed by individuals (365).
    - The most common amount of bonds purchased varies across buyer types, with firms leading with an average purchase of ₹123,321,425.
    - Notably, FUTURE GAMING AND HOTEL SERVICES PRIVATE LIMITED stands out with a substantial purchase of ₹13,680,000,000.
-   - LAKSHMI NIWAS MITTAL emerges as the top individual buyer, with a purchase of ₹350,000,000.
+   - **LAKSHMI NIWAS MITTAL** emerges as the top individual buyer, with a purchase of ₹350,000,000.
    - Electoral bonds purchased by individuals or entities containing 'AGARWAL' in their name total ₹179,082,000.
 
 2. **Encashment Data Analysis:**
