@@ -1,7 +1,7 @@
 **Description:**
 This dataset presents detailed information on electoral bond transactions facilitated by the State Bank of India (SBI). Electoral bonds are financial instruments that allow individuals and organizations to make anonymous donations to political parties in India. The dataset contains essential details such as the purchaser's name, the type of donor (business, individual, or trust), and other relevant information.
 
-Additionally, exploratory data analysis (EDA) has been performed on this dataset using Jupyter Notebook. Insights and patterns regarding electoral funding dynamics, donor characteristics, and transparency measures have been extracted to enhance the understanding of political financing in India.
+Additionally, exploratory data analysis (EDA) has been performed on this dataset using Jupyter Notebook. Insights and patterns regarding electoral funding dynamics, donor characteristics, and transparency measures have been extracted to enhance the understanding of **political financing in India.**
 
 **Columns:**
 1. **Purchaser Name:** Name of the entity purchasing the electoral bonds.
